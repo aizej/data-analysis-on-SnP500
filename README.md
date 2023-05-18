@@ -17,15 +17,18 @@ Daily price from 1927-12-30 to 2020-11-04
 
 The results:
 Graph for just the 1) taking in to consideration all of the future prices:
-![just1](https://github.com/aizej/data-analysis-on-SnP500/assets/61479273/cafebcab-d296-4be2-abd3-b4c37923d79c)
+![just](https://github.com/aizej/data-analysis-on-SnP500/assets/61479273/b6ee778c-4f81-4581-82e2-05f8b4be1b3d)
 
 Logarithmic graph:
-![just1_log](https://github.com/aizej/data-analysis-on-SnP500/assets/61479273/77c6c087-80f5-470d-a258-797133ac4cb2)
+![just_log](https://github.com/aizej/data-analysis-on-SnP500/assets/61479273/dd4d42e1-13ac-42d3-aba5-036a17e9652d)
+
 
 Graph that takes in to consideration just 1 year of future data:
-![both](https://github.com/aizej/data-analysis-on-SnP500/assets/61479273/4e9c1c29-b6cc-44aa-9f77-8656aa3a507f)
+![both](https://github.com/aizej/data-analysis-on-SnP500/assets/61479273/c0a2fc89-4033-4e95-b5ed-57230fdd5ac6)
+
 Logarithmic graph:
-![both_log](https://github.com/aizej/data-analysis-on-SnP500/assets/61479273/dc4925c7-3e30-457e-bae9-7ecb7b475a3c)
+![both_log](https://github.com/aizej/data-analysis-on-SnP500/assets/61479273/cd966d8d-bca0-42ff-b055-4633d83dfc0e)
+
 
 green -times in the market where the price newer got lower than it was (good time to invest)
 red -times where the price didnt go higier for long time               (bad time to invest)
