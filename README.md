@@ -46,10 +46,7 @@ red -times where the price didnt go higier for long time               (bad time
 
 
 
-
-
-
-
+\n\n\n
 
 
 These graphs are cool but what day in a month should I invest and does it make any diference?
